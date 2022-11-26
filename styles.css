@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(39, 37, 47);
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h1 {
+    font-size: 40px;
+    text-decoration: underline rgb(69, 69, 210);
+    border: 20px;
+    margin: 20px;
+}
+h2{
+    margin: 10px;
+}
+
+#game {
+    display: flex;
+    
+}
+
+.card {
+    width: 160px;
+    height: 120px;
+    background-color: rgb(33, 33, 120);
+    border-left:solid rgb(69, 69, 210) 10px;
+    border-top:solid rgb(110, 110, 226) 10px;
+    border-right:solid rgb(28, 28, 133) 10px;
+    border-bottom:solid rgb(6, 6, 33) 10px;
+    text-align: center;
+    font-size: 100px;
+    margin: 5px;
+    padding: 10px;
+    line-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.first-button{
+    background-color: rgb(14, 10, 70);
+    color: azure;
+    padding: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+    
+}
+.first-button:hover{
+    background-color: rgb(25, 18, 119);
+}
+
+.second-button:hover{
+    background-color: rgb(25, 18, 119);
+}
+
+.second-button{
+    background-color: rgb(14, 10, 70);
+    color: azure;
+    padding: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+    
+}
+.genre-title{
+    background-color: rgb(39, 37, 47);
+    text-align:center;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    border: solid rgb(69, 69, 210) 5px;
+    border-radius: 20px;
+    margin-bottom:20px;
+    
+}
+
+.correct-answer{
+    background-color:#30a056 ;
+}
+.wrong-answer{
+    background-color:#802326 ;
+}
