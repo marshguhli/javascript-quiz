@@ -7,4 +7,9 @@ Tato práce nám po kliknutí na tlačítka ukazuje otázky a možné odpovědi.
 Po správném kliknutí se nám zobrazí barevné pozadí podle správnosti odpovědi a přiřadí se podle toho náležitě body.
 JavaScript jsem se učila a procházela si ho hlavně v letním období a od poloviny září se učím a studuji PHP skriptovací jazyk více do hloubky.
 
+
+Screenshoty: 
+https://ctrlv.cz/v59t
+https://ctrlv.cz/53gG
+
 Zimlová Lucie
